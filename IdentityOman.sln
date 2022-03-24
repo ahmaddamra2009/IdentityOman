@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityOman", "IdentityOman\IdentityOman.csproj", "{87CBD517-3925-4B8B-9CE3-356F1D50AC58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87CBD517-3925-4B8B-9CE3-356F1D50AC58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87CBD517-3925-4B8B-9CE3-356F1D50AC58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87CBD517-3925-4B8B-9CE3-356F1D50AC58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87CBD517-3925-4B8B-9CE3-356F1D50AC58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B4E7716-5891-4FDC-B984-1A8872842A67}
+	EndGlobalSection
+EndGlobal
